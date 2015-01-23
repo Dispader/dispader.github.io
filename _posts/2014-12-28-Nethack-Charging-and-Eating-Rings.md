@@ -77,7 +77,7 @@ But consider a case where you need to make rent, which is $1000, you have exactl
 
 ## the lowdown
 
-If you have one Amulet of Magical Breathing, you might likely keep it and wear it in times of need.  If you have two, you'd most likely want to eat one and see if you draw the one-in-three chance that you get to breathe magically without need for the amulet.  The piece of jewlery is most likely a resource, the second is capital.
+If you have one Amulet of Magical Breathing, you might likely keep it and wear it in times of need.  If you have two, you'd most likely want to eat one and see if you draw the one-in-three chance that you get to breathe magically without need for the amulet.  The first piece of jewlery is most likely a resource, the second is capital.
 
 In the NetHack case a `+2` bonus to Protection, Increase Accuracy, and Increase Damage might be nice, but not game-changers.
 
