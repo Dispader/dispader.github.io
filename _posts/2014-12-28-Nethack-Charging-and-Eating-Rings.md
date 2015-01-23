@@ -9,7 +9,7 @@ title: R, probability, gambling theory, and Nethack
 
 A while back, [Bridget Kromhout](http://bridgetkromhout.com/) recently (and insanely, given our schedules) proposed we give a talk at [DevOpsDays Minneapolis](http://devopsdays.org/events/2014-minneapolis/) on why every developer should play [Nethack](http://www.nethack.org/).
 
-Curse, bless her now with my fierce tears for reminding me that Nethack existed, and that I've spent the past ten-odd years living through save-deaths trying to bring up a Monk.  Yes, you can eventually die in 3.4.3 if you keep a game alive too long: I'm meticulous player, who also has more demands on time than playing, so three or four monks were lost in this way.
+Curse, bless her now with my fierce tears for reminding me that Nethack existed, and that I've spent the past ten-odd years living through save-deaths trying to [bring up a Monk](https://plus.google.com/118405038554517961792/posts/Ce1yknAhV6J).  Yes, you can eventually die in 3.4.3 if you keep a game alive too long: I'm meticulous player, who also has more demands on time than playing, so three or four monks were lost in this way.
 
 I managed to get myself too-sick-to-move recently, started playing a bit, and found myself lucky enough to have a game where some bonus-granting rings (Protection, Increate Accuracy, and Increase Damage) were edible.  I summoned up the standard neutral Quest Artifacts with the Castle's wand of wishing, including the Platinum Yendorian Express Card.  Like you do.
 
