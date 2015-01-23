@@ -49,7 +49,7 @@ And voila.  If we want to maximize the ring enchantment, we should charge a `+1`
 
 ## the philosophy
 
-Now we come to why I decided this was interesting enough to post: the question "Should I charge a ring that currently has a `+2`?"
+Now we come to why I decided this was interesting enough to post: the question "Should I charge a ring that currently has a `+2` enchantment?"
 
 ![_config.yml]({{ site.baseurl }}/images/ring-eat-ev-bonus.png)
 
