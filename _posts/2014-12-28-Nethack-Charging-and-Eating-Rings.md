@@ -21,7 +21,7 @@ For those with lives: in this little game of so dear to some hearts, one can pol
 * without generating hunger from the ring
 * without the worry that the ring will be destroyed in some unfortunate way
 
-The downside is the `1 / 1` probability ring is lost during the eating process— leaving your constant dungoneer with either the above benefits, or nothing but a slightly fuller belly.
+The downside is the `1 / 1` probability ring is lost during the eating process— leaving your Constant Dungoneer with either the above benefits, or nothing but a slightly fuller belly.
 
 Happy, rings may be "charged," increasing their bonus.  This does come at a cost: there is an `enchantment / 7` probability that the ring will be destroyed during the charging process.
 
