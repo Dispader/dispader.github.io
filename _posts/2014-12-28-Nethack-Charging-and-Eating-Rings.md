@@ -23,7 +23,7 @@ For those with lives: in this little game of so dear to some hearts, one can pol
 
 The downside is the `1 / 1` probability ring is lost during the eating process— leaving your constant dungoneer with either the above benefits, or nothing but a slightly fuller belly.
 
-Happy, rings may be "charged", increasing their bonus.  This does come at a cost: there is an `enchantment / 7` probability that the ring will be destroyed during the charging process.
+Happy, rings may be "charged," increasing their bonus.  This does come at a cost: there is an `enchantment / 7` probability that the ring will be destroyed during the charging process.
 
 Since the PYEC can charge items at no cost to the Constant Dungeoneer, the losses to a character are limited to the the two above probabilities.
 
