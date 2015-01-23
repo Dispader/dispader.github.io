@@ -57,7 +57,7 @@ En face, it's less interesting than I imply.  Let's be clear: we're gambling wit
 
 But there are a few ways to interpret probability, and that adds up to more than idle philosophy: the interpretations have real consequences in your theory of gambling.
 
-Why I first say that the proposition is clear is that the [Law of Large Numbers](http://en.wikipedia.org/wiki/Law_of_large_numbers) and [Frequentist probability](http://en.wikipedia.org/wiki/Frequentist_probability) tells that, if we perform this experiment on a large number times, the expected value converges with the experiemental ([Bayesian probability](http://en.wikipedia.org/wiki/Bayesian_probability)) results to predict the actual bonuses we'll gain.
+Why I first say that the proposition is clear is that the [Law of Large Numbers](http://en.wikipedia.org/wiki/Law_of_large_numbers) and [Frequentist probability](http://en.wikipedia.org/wiki/Frequentist_probability) tells that, if we perform this experiment on a large number times, the expected value converges with the experiemental (basically [Bayesian probability](http://en.wikipedia.org/wiki/Bayesian_probability)) results to predict the actual bonuses we'll gain.
 
 If we have the opportunity to play the game of charging or not charging the ring a large number of times, we will gain higher enchantments.  Reduced, we should take this gamble once, because it's a good investment for our risk.
 
