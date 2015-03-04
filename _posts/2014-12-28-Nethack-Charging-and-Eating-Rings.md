@@ -86,32 +86,4 @@ In the NetHack case a `+2` bonus to Protection, Increase Accuracy, and Increase 
 
 This Universe is governed by the laws of probability, but your best choices depend on your situation.
 
-In the inherently risky business of eating rings, you come out ahead eating only the finest (`+3`).
-
-
-{% highlight r %}
-chargingPDestruction <- function(enchantment) { enchantment/7 } 
-chargingPSurvival    <- function(enchantment) { 1 - chargingPDestruction(enchantment) }
-
-ringEnchantmentSeq <- seq(0,7)
-ring <- data.frame( enchantment = ringEnchantmentSeq ,
-                    pDestruction = chargingPDestruction(ringEnchantmentSeq), 
-                    pSurvival = chargingPSurvival(ringEnchantmentSeq), 
-                    expectedEnchantmentAfterCharging = (chargingPSurvival(ringEnchantmentSeq)*(ringEnchantmentSeq+1)) )
-
-plot(ring[['enchantment']], ring[['pDestruction']], pch=4, col='red', xlab='enchantment', ylab='probability', main='Ring Charging Item Survival')
-points(ring[['enchantment']], ring[['pSurvival']], pch=1, col='blue')
-legend(x='right', legend = c('survives','destroyed'), pch=c(1,4), col=c('blue', 'red'))
-
-plot(ring[['enchantment']], ring[['expectedEnchantmentAfterCharging']], pch=3, col='blue', xlim=c(0,4), ylim=c(0,3), main='Expected Ring Charging Enchantment Yields',xlab='pre-charging enchantment', ylab='expected enchantment')
-points(ring[['enchantment']], ring[['enchantment']], pch=1, col='green')
-legend(x='bottomright', legend = c('charging ring','without charging ring'), pch=c(1,4), col=c('blue', 'green'))
-
-plot(ring[['enchantment']], (ring[['expectedEnchantmentAfterCharging']] * 1/3), pch=3, col='blue', xlim=c(1,4), xaxt='n', ylim=c(0.3,0.8), main='Expected Bonus from Eating Ring',xlab='pre-charging enchantment', ylab='expected bonus')
-axis(1, at=1:4)
-points(ring[['enchantment']], (ring[['enchantment']] * 1/3), pch=1, col='green')
-legend(x='bottomright', legend = c('charging ring','without charging ring'), pch=c(1,4), col=c('blue', 'green'))
-
-( ( ring[ring$enchantment == 3, 'expectedEnchantmentAfterCharging'] * 1/3 ) - ( ring[ring$enchantment == 2, 'expectedEnchantmentAfterCharging'] * 1/3 ) ) / ( ring[ring$enchantment == 2, 'expectedEnchantmentAfterCharging'] * 1/3 )
-(ring[ring$enchantment == 2, 'expectedEnchantmentAfterCharging'] - 2 ) / 2
-{% endhighlight %}
+{% gist Dispader/3a7253b6e085b6ef7c33 %}
