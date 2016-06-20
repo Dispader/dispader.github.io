@@ -20,3 +20,7 @@ I've written a [small command for the Groovy Shell](https://github.com/Dispader/
 `:load` it from your Groovy Shell by [URL](https://git.io/v2N1I), and enjoy!
 
 {% gist Dispader/8697fbafc71daa7a2575 %}
+
+## *update*
+
+[Pull request #286](https://github.com/apache/groovy/pull/286) has been merged, so you we should be able to expect the above feature in the standard Groovy core version of `groovysh`.
