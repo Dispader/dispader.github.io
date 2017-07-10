@@ -3,7 +3,7 @@ layout: post
 title: Continuously Build
 ---
 
-I can't overstate the peace of mind that working on a project with comprehensive tests give me.  It truly amazes me how much better code I produce with I feel confident that the changes I'm making aren't breaking things.
+I can't overstate the peace of mind that working on a project with comprehensive tests gives me.  It truly amazes me how much better code I produce with I feel confident that the changes I'm making aren't breaking things.
 
 To have that confidence, I need to run my tests.
 
