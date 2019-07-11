@@ -32,7 +32,6 @@ footer-links:
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
   twitter: Dispader
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  google_plus: +JakeGage
 
 # Your disqus shortname, entering this will enable commenting on posts
 disqus:
